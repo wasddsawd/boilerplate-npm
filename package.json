@@ -4,6 +4,7 @@
 		"description": "a simple json for the fcc",
 		"keywords": ["test", "freecodecamp", "json"],
 		"license": "MIT",
+		"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
