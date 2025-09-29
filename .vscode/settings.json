@@ -1,0 +1,5 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.inlineSuggest.edits.renderSideBySide": "auto",
+  "editor.inlineSuggest.enabled": false
+}
