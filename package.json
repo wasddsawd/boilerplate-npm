@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
-		"author": "Rafael Kruger",
+		"author": "Rafael Krüger",
+		"description": "a simple json for the fcc",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
