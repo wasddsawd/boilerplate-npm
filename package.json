@@ -3,6 +3,7 @@
 		"author": "Rafael Krüger",
 		"description": "a simple json for the fcc",
 		"keywords": ["test", "freecodecamp", "json"],
+		"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
