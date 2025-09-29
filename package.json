@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 		"author": "Rafael Krüger",
 		"description": "a simple json for the fcc",
-		"keywords": ["test", "fcc", "json"],
+		"keywords": ["test", "freecodecamp", "json"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
