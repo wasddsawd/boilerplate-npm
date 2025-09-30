@@ -8,9 +8,9 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"devDependencies": {
-    "@freecode/example": "^1.1.0"
-  },
+"devDependencies": {
+  "@freecode/example": "file:packages/freecode-example"
+},
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
