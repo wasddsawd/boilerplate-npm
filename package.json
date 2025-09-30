@@ -6,10 +6,11 @@
 		"license": "MIT",
 		"version": "1.2.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecode/example": "file:packages/freecode-example"
 	},
 "devDependencies": {
-  "@freecode/example": "file:packages/freecode-example"
+  
 },
 	"main": "server.js",
 	"scripts": {
