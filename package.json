@@ -7,11 +7,8 @@
 		"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0",
-		"@freecode/example": "file:packages/freecode-example"
+		"@freecodecamp/example": "1.1.0"
 	},
-"devDependencies": {
-  
-},
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
